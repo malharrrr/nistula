@@ -14,8 +14,6 @@
 
 **Notification Engine:** At 3am (outside 8am–10pm caretaker hours), the system triggers Twilio to call the night-duty manager immediately.
 
-**SLA Timer:** A 30-minute acknowledgment countdown starts. No ghost tickets.
-
 **Escalation Protocol:** If the manager doesn't acknowledge within 30 minutes, a secondary call automatically routes to the property owner or upper management.
 
 ---
